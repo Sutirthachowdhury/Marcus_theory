@@ -37,3 +37,4 @@ while gc<=0.045*2:
 mar.close()
 
 # See Marcus theory at  : https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Time_Dependent_Quantum_Mechanics_and_Spectroscopy_(Tokmakoff)/15%3A_Energy_and_Charge_Transfer/15.05%3A_Marcus_Theory_for_Electron_Transfer
+# this is standard Marcus theory
